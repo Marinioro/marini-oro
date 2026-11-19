@@ -1,0 +1,13 @@
+# NUNCA enviar para a internet (o código fica público no GitHub)
+.segredos/
+.env
+.env.*
+!.env.example
+conversas/
+CLAUDE.md
+supabase/.temp/
+supabase/.branches/
+
+# Arquivos gerados
+node_modules/
+dist/
